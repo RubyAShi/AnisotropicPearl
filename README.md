@@ -1,3 +1,4 @@
+# Example simulations in example.jpeg
 This script calcualtes the z-component of an anisotropic Pearl vortex. It takes in the Pearl length in the x-, y-direction, and the simulation height as inputs. 
 Figure 346 plots the z-field and figure 138 plots the z-flux of the vortex when using a 3 um IBM SUQID. 
 The simulation range is hardcoded as xRange and yRange, both defaulted at 400 microns. Consider going up when simulating Pearl vortices with larger Pearl lengths.
